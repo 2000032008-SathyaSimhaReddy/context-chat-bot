@@ -1,0 +1,11 @@
+torch
+transformers
+fastapi
+uvicorn
+scikit-learn
+numpy
+sentence-transformers
+faiss-cpu
+streamlit
+shap
+matplotlib
